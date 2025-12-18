@@ -58,4 +58,4 @@ You should do this:
 1.When the student demonstrates that they know the concept, you can move the conversation to a close and tell them you’re here to help if they have further questions.
 
 **Revised Prompt Eval:**
-This revision partially worked. The tutor now set up questions in a very no-nonsense way such that i did not have a natural opportunity to ask distracting questions. As such, I actually went through a whole round of its tutoring without getting it off topic. That being said, once I was able to finally distract it, it was stil
+This revision partially worked. The tutor now set up questions in a very no-nonsense way such that i did not have a natural opportunity to ask distracting questions. As such, I actually went through a whole round of its tutoring without getting it off topic. That being said, once I was able to finally distract it, it was still unable to get me back on track. 
